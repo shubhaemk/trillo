@@ -1,3 +1,3 @@
 # Trillo
 ## A landing page for Hotel
-## Demo : ( Coming Soon )
+## Demo : https://shubhaemk.github.io/trillo/
